@@ -5,15 +5,15 @@
 <array>
 <dict>
 <key>avatar</key>
-<string></string> ��ע�ͣ���λ��Ϊ���ͼƬ��ַ���Ǳ��
-<key>link</key>��ע�ͣ���λ��Ϊת����Ķ����ӵ�ַ����λ�ȡ������˵����
-<string>https://vt.tiktok.com/ZSRrHgS8a/</string>
+<string></string> （注释：该位置为你的图片地址，非必填）
+<key>link</key>（注释：该位置为转换后的短链接地址，如何获取见下文说明）
+<stringhttps://vm.tiktok.com/ZSRfTPHtb/</string>
 <key>desc</key>
-<string>Are you over 18 years old��</string>��ע�ͣ���λ��Ϊ����������
+<string>Are you over 18 years old？</string>（注释：该位置为文字描述）
 <key>title</key>
-<string>hello,my love!</string>��ע�ͣ���λ��Ϊ���⣩
+<string>hello,my love!</string>（注释：该位置为标题）
  <key>text</key>
-<string>hi</string>��ע�ͣ���λ��Ϊ���ֻ�����
+<string>hi</string>（注释：该位置为文字话术）
 </dict>
 </array>
-</plist>
+</plist>
