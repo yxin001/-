@@ -7,7 +7,7 @@
 <key>avatar</key>
 <string></string> （注释：该位置为你的图片地址，非必填）
 <key>link</key>（注释：该位置为转换后的短链接地址，如何获取见下文说明）
-<stringhttps://vm.tiktok.com/ZSRfTPHtb/</string>
+<string>https://vm.tiktok.com/ZSRfTPHtb/</string>
 <key>desc</key>
 <string>Are you over 18 years old？</string>（注释：该位置为文字描述）
 <key>title</key>
